@@ -1,0 +1,47 @@
+#container{
+	margin: auto;
+	padding: 15px
+}
+.output{
+	background-color: #7cffbb;
+	width: 730px;
+	height: 50px;
+	line-height: 50px;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+	color: teal;
+	font-weight: bold
+}
+.field{
+	margin-top: 25px
+}
+.input{
+	width: 180px;
+	margin-left: 10px;
+	border: #68a2ff 3px solid;
+	box-shadow: none;
+	padding: 5px
+}
+.caption{
+	width: 100px;
+	display: inline-block;
+	font-weight: bold;
+	color: #68a2ff
+}
+.complete{
+	display: inline-block;
+	font-weight: bold;
+	color: #68a2ff
+}
+button{
+	width: 80px;
+	margin-top: 25px;
+	color: #68a2ff;
+	font-weight: bold;
+	background-color: white;
+	box-shadow: none;
+	border-radius: 5px;
+	border: solid #68a2ff 3px;
+	padding: 5px
+}
